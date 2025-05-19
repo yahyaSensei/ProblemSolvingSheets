@@ -15,3 +15,5 @@ https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/
 https://github.com/yahyaSensei/Problem-Solving-Training
 
 https://cses.fi/book/book.pdf
+
+https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters
